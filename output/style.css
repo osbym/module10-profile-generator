@@ -1,0 +1,22 @@
+.teamContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.team-heading {
+    background-color: rgb(209, 72, 90);
+    color: white;
+}
+
+.employee-card {
+    width: fit-content;
+    height: fit-content;
+    margin: 30px 10px;
+}
+
+.card-header {
+    text-align: center;
+    background-color: rgb(112, 178, 216);
+    color: white;
+}
