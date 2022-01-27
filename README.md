@@ -74,9 +74,7 @@ Breaking down the requirements - I will separate the objective into the followin
 
 ![image](https://user-images.githubusercontent.com/87884472/137670955-ad2f7044-8272-4404-962d-92af1c0c9ce6.png)
 
-### Demo Video
 
-npm_test.gif
 
 
 
